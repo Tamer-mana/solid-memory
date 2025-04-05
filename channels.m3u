@@ -1,0 +1,3 @@
+#EXTM3U url-tvg="http://localhost:8409/iptv/xmltv.xml" x-tvg-url="http://localhost:8409/iptv/xmltv.xml"
+#EXTINF:0 tvg-id="C88.208.ersatztv.org" channel-id="XuGbc4GNpE6JNX35HNFclA" channel-number="88" CUID="XuGbc4GNpE6JNX35HNFclA" tvg-chno="88" tvg-name="Toast" tvg-logo="http://localhost:8409/iptv/logos/475BB807C231A41B811F84D6302B826F.jpg" group-title="ToastTV" tvc-stream-vcodec="h264" tvc-stream-acodec="aac", Toast
+http://localhost:8409/iptv/channel/88.ts
